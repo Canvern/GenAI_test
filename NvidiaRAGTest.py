@@ -7,5 +7,3 @@ export NVIDIA_API_KEY="nvapi-KO96DQVCu7wCk5WSz9KHsNNx2OlK6LYjBSnCl_PQO_gA-zelk5T
 
 streamlit run community/5_mins_rag_no_gpu/main.py
 
-
-
